@@ -1423,8 +1423,8 @@ mock-request@^0.1.2:
   resolved "https://registry.yarnpkg.com/mock-request/-/mock-request-0.1.2.tgz#828c755c8f498c5701bac69da3e7aaa6d78950dc"
 
 moment@2.x.x, moment@^2.10.6, moment@^2.9.0:
-  version "2.17.1"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.17.1.tgz#fed9506063f36b10f066c8b59a144d7faebe1d82"
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
 
 ms@0.7.1:
   version "0.7.1"
